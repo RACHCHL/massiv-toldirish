@@ -9,7 +9,7 @@ function userEnter(){
     return;
   }
 
-  let parts = userInput.split(",");
+  let parts = userInput.split(", ");
   
   let num = parts[0]; 
   
